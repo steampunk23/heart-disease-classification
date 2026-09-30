@@ -144,7 +144,7 @@ The project is designed to demonstrate that predictive modeling can identify hea
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/heart-disease-classification.git
+   git clone https://github.com/<steampunk23>/heart-disease-classification.git
    cd heart-disease-classification
    ```
 
